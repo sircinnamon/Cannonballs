@@ -10,3 +10,5 @@ in - java TriCannonballs int
 out - 
 Base: Total height (Base size)
 Height: The highest tier with cannonballs in it
+
+Created in collaboration with Jim Kemper and Anthony Coulthard
